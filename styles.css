@@ -1,0 +1,39 @@
+body{
+    background-image: url("fundo.png");
+}
+
+#menu{
+    background-color: 	#ede8de;
+    width: 100%;
+    
+    display: flex;
+    
+    align-items: center;
+}
+
+h3{
+    font-family: Arial, sans-serif;
+}
+
+#sobre{
+    background-color: white;
+    width: 100%;
+}
+
+#todososdireits{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table, th, td {
+    /* border: 1px solid black; */
+    width: 100%;
+    text-align: left;
+    table-layout: fixed ;
+}
+
+a{
+    text-decoration: none;
+}
